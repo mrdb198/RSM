@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.0.3
+_src_path: https://github.com/delapazruiz/fairRcode.git
+authors: Iowner Maaike de Bondt
+citation: true
+code_of_conduct: true
+community: false
+contact_email: m.debondt@maartenskliniek.nl
+copyright_holder: Iowner Maaike de Bondt
+copyright_year: 2026
+owner: Iowner Maaike de Bondt
+software_license: MIT License
+software_name: 'RSM '
+software_purpose: The purpose of RSM  is a test during the course
