@@ -1,6 +1,6 @@
 
 # R Research Software Template
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24104159.svg)](https://doi.org/10.5281/zenodo.24104159)
 <div align="center">
   <img src="img/UT_Logo_0072_Black_EN.png" alt="logo">
 </div>
