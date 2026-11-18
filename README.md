@@ -2,7 +2,7 @@
 
 STEP 3: using Git and GitHub helped me already throughout this exercise. I try to commit and push things in Positron, but I also need to pull things sometimes, as I for example changed the license file on GitHub itself. Using version control is very important for many things, but for me personally it's most important in collaboration and as a time machine. I do not need to worry about breaking my script, as I can simply go back whenever I need to. By writing meaningful commit messages, it can also help me explain my own thoughts to a later version of myself.
 
-STEP 5 and 6: I had performed these steps already during the course. The different commits are visible in the beginning of this project. 
+STEP 5 and 6: I had performed these steps already during the course. Therefore, an older version of the project is archived in the currently shown DOI. The different commits are visible in the beginning of this project. 
 
 STEP 7: My Pure account is set to private, therefore I added a screenshot of my account. I know how to upload software/datasets in Pure now. However, I will not add the currently created DOI, as it is not a real project and more a text exercise. I did add a dataset of previous research (which I already had uploaded to Zenodo). ![alt text](/img/image.png)
 
@@ -12,16 +12,16 @@ Intended user community: As the dataset comes from the LROI (Dutch Arthroplasty 
 2. Git and GitHub will be used to manage the source code. 
 3. The software will be made publicly available by sharing a release on Zenodo once the analysis has been performed. 
 4. License: CC-BY-4.0. Others may use my software, but need to cite me, according to the CITATION.cff file. 
-5. All dependencies of the code will be saved in the renv.lock file and shared in the repository. Additionally, suitable comments will be given to increase reproducibility. 
-NOG AANVULLEN!!
-6. MOET NOG!!
-7. MOET NOG !!
-8. MOET NOG!!
-9. The software will be documented by extensive README files and the necessary comments in between the lines of code and on top of each script/function. 
+5. All dependencies of the code will be saved in the renv.lock file and shared in the repository. Additionally, suitable inline code comments will be given to increase reproducibility. 
+Long-term sustainability will be supported by the use of Git-based version control, comprehensive documentation, coding standards, documented dependencies, and regular software releases. Development will take place in a public repository, and stable versions will be archived to promote reproducibility, reuse, and future maintenance.
+6. No active development is planned after my PhD has been completed, although users will be able to access the software and documentation through the project repository. Bug reports and user feedback can be submitted via the repository issue tracker. While no dedicated funding is available for long-term development, critical bug fixes and documentation updates will be implemented when feasible.
+7. Required resources include repository hosting, documentation, and limited maintenance for bug fixes. These resources will be provided by the project team and host institution. Future development will depend on the availability of follow-up funding and community interest.
+8. Comprehensive documentation, including installation instructions, dependencies, and example workflows, will be provided. Stable releases will be archived with a DOI through a repository such as Zenodo. The software will follow open file formats to maximize future compatibility and reusability. 
+9. The software will be documented by extensive README files and inline code comments, where appropriate. 
 10. All installation requirements and dependencies of the code will be saved in the renv.lock file and shared in the repository.
 11. Citation is managed through the CITATION.cff file. Furthermore, the corresponding DOI is provided on the top of this README file. 
 12. Software will be tested by requesting a code check at the University of Twente. If somebody else is able to run my code and obtain similar results; this shows a proper test of the software. 
-13. MOET NOG!!
+13. The software will be packaged as a version-controlled release and distributed through a public GitHub repository. Stable versions will be archived in Zenodo and assigned a DOI. Documentation, installation instructions, and example workflows will be distributed together with the software.
 
 
 # R Research Software Template
