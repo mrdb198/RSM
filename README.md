@@ -57,11 +57,14 @@ RSM/
 ```
 
 ## Installation
-[Describe the steps that users (not developers) should follow to install the code in each of the intended platforms (e.g. Window 10, MacOS, etc.).]
-
 **Requirements** 
-- [List the software, OS, and/or technologies on which the code depends, and add hyperlinks to the sources whenever possible.]
-- [State any relevant hardware requirements.]
+- [R version 4.3.0 or later](https://cran.r-project.org/bin/windows/base/) 
+- R packages:
+    [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/),
+    [ggplot2](https://ggplot2.tidyverse.org/),
+    [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
+  
+The script has been developed and tested on Windows 11 but is expected to run on any operating system supported by R (Windows, macOS, or Linux).
 
 ## License
 This software is distributed under a [CC-BY-4.0](LICENSE). 
