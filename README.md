@@ -1,5 +1,23 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24104159.svg)](https://doi.org/10.5281/zenodo.24104159)
 
+# Software Management Plan (short answers)
+1. Purpose: My software is created to perform data analysis of a large (+-30,000 cases) dataset. The tasks include: data cleaning, data preparation, data visualization, and statistical analysis. 
+Intended user community: As the dataset comes from the LROI (Dutch Arthroplasty Register), I expect that other researchers doing analysis using data from the LROI may benefit from reading/using this software. 
+2. Git and GitHub will be used to manage the source code. 
+3. The software will be made publicly available by sharing a release on Zenodo once the analysis has been performed. 
+4. License: CC-BY-4.0. Others may use my software, but need to cite me, according to the CITATION.cff file. 
+5. All dependencies of the code will be saved in the renv.lock file and shared in the repository. Additionally, suitable comments will be given to increase reproducibility. 
+NOG AANVULLEN!!
+6. MOET NOG!!
+7. MOET NOG !!
+8. MOET NOG!!
+9. The software will be documented by extensive README files and the necessary comments in between the lines of code and on top of each script/function. 
+10. All installation requirements and dependencies of the code will be saved in the renv.lock file and shared in the repository.
+11. Citation is managed through the CITATION.cff file. Furthermore, the corresponding DOI is provided on the top of this README file. 
+12. Software will be tested by requesting a code check at the University of Twente. If somebody else is able to run my code and obtain similar results; this shows a proper test of the software. 
+13. MOET NOG!!
+
+
 # R Research Software Template
 <div align="center">
   <img src="img/UT_Logo_0072_Black_EN.png" alt="logo">
