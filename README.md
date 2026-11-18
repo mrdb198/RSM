@@ -3,6 +3,7 @@
 STEP 3: using Git and GitHub helped me already throughout this exercise. I try to commit and push things in Positron, but I also need to pull things sometimes, as I for example changed the license file on GitHub itself. Using version control is very important for many things, but for me personally it's most important in collaboration and as a time machine. I do not need to worry about breaking my script, as I can simply go back whenever I need to. By writing meaningful commit messages, it can also help me explain my own thoughts to a later version of myself.
 
 STEP 5 and 6: I had performed these steps already during the course. The different commits are visible in the beginning of this project. 
+
 STEP 7: My Pure account is set to private, therefore I added a screenshot of my account. I know how to upload software/datasets in Pure now. However, I will not add the currently created DOI, as it is not a real project and more a text exercise. I did add a dataset of previous research (which I already had uploaded to Zenodo). ![alt text](/img/image.png)
 
 # Software Management Plan (short answers)
