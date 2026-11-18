@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24104159.svg)](https://doi.org/10.5281/zenodo.24104159)
 
+STEP 3: using Git and GitHub helped me already throughout this exercise. I try to commit and push things in Positron, but I also need to pull things sometimes, as I for example changed the license file on GitHub itself. Using version control is very important for many things, but for me personally it's most important in collaboration and as a time machine. I do not need to worry about breaking my script, as I can simply go back whenever I need to. By writing meaningful commit messages, it can also help me explain my own thoughts to a later version of myself. 
+
 # Software Management Plan (short answers)
 1. Purpose: My software is created to perform data analysis of a large (+-30,000 cases) dataset. The tasks include: data cleaning, data preparation, data visualization, and statistical analysis. 
 Intended user community: As the dataset comes from the LROI (Dutch Arthroplasty Register), I expect that other researchers doing analysis using data from the LROI may benefit from reading/using this software. 
